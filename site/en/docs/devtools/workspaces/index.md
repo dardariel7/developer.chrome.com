@@ -70,9 +70,8 @@ Complete this tutorial to get hands-on experience with Workspaces.
 
     **Figure 1**. A Glitch project with a randomly-generated name
 
-2.  Click the randomly-generated project name. For example, in **Figure 1** you would click
-    **desert-cycle**.
-3.  Select **Advanced Options** > **Download Project**.
+2.  Click **Tools** at the bottom left of the browser screen.
+3.  Select **Import and Export** > **Download Project**.
 
     {% Img src="image/admin/78hxAkUuVvPelHFE0q4P.png", alt="The Download Project button.", width="800", height="665" %}
 
